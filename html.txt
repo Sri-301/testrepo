@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            chandana hithasri
+        </title>
+    </head>
+    <body background="C:\Users\chand\OneDrive\Desktop\Sweety\passphoto.jpg" text=" #3533ff">
+        <h1>
+            WELCOME TO HTML SESSION
+        </h1>
+    </body>
+</html>
